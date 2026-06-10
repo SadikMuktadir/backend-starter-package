@@ -58,13 +58,12 @@ npm run format    # Format code with Prettier
 
 ## 🧱 Tech Stack
 
-Node.js
-Express.js
-TypeScript
-MongoDB + Mongoose
-JWT Authentication
-Zod Validation
-ESLint + Prettier
+This backend starter is built with modern technologies:
 
----
-
+- ⚙️ Node.js – Runtime environment
+- 🚀 Express.js – Fast web framework
+- 🟦 TypeScript – Type-safe JavaScript
+- 🍃 MongoDB + Mongoose – Database & ODM
+- 🔐 JWT – Authentication system
+- ✅ Zod – Schema validation
+- 🧹 ESLint + Prettier – Code quality & formatting

@@ -27,12 +27,17 @@ A production-ready **Node.js + Express + TypeScript** backend starter template d
 ```bash
 git clone https://github.com/SadikMuktadir/backend-starter-package.git
 ```
-### 2. Install dependencies
+### 2. File Name
+
+```bash
+cd backend-starter-package
+```
+### 3. Install dependencies
 
 ```bash
 npm install
 ```
-### 3. Setup environment variables
+### 4. Setup environment variables
 
 ```bash
 NODE_ENV=
@@ -40,7 +45,7 @@ PORT=
 DATABASE_URL=
 JWT_SECRET_TOKEN=
 ```
-### 4. Run development server
+### 5. Run development server
 
 ```bash
 npm run dev
